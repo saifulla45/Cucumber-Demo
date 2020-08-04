@@ -1,0 +1,20 @@
+2020-08-02 11:39:06,340 - cucumberDemo -INFO - *********Launching Browser***********
+2020-08-02 11:39:07,589 - cucumberDemo -INFO - ********Launching URL********
+2020-08-02 11:39:13,745 - cucumberDemo -INFO - ******** PROVIDING LOGIN DETAILS ********
+2020-08-02 11:39:17,299 - cucumberDemo -INFO - ******** Clicking on Login Button ********
+2020-08-02 11:39:27,934 - cucumberDemo -INFO - ******** Login Passed *********
+2020-08-02 11:39:30,937 - cucumberDemo -INFO - ******** Click on Logout Link ********
+2020-08-02 11:39:39,433 - cucumberDemo -INFO - ******** Closing the Browser ********
+2020-08-02 11:39:42,372 - cucumberDemo -INFO - *********Launching Browser***********
+2020-08-02 11:39:43,512 - cucumberDemo -INFO - ********Launching URL********
+2020-08-02 11:39:48,967 - cucumberDemo -INFO - ******** PROVIDING LOGIN DETAILS ********
+2020-08-02 11:39:52,257 - cucumberDemo -INFO - ******** Clicking on Login Button ********
+2020-08-02 11:40:01,853 - cucumberDemo -INFO - ******** Login Passed *********
+2020-08-02 11:40:04,854 - cucumberDemo -INFO - ******** Click on Logout Link ********
+2020-08-02 11:40:13,121 - cucumberDemo -INFO - ******** Closing the Browser ********
+2020-08-02 11:40:16,088 - cucumberDemo -INFO - *********Launching Browser***********
+2020-08-02 11:40:17,231 - cucumberDemo -INFO - ********Launching URL********
+2020-08-02 11:40:23,359 - cucumberDemo -INFO - ******** PROVIDING LOGIN DETAILS ********
+2020-08-02 11:40:26,662 - cucumberDemo -INFO - ******** Clicking on Login Button ********
+2020-08-02 11:40:31,058 - cucumberDemo -INFO - ******** Login Failed *********
+2020-08-02 11:40:34,061 - cucumberDemo -INFO - ******** Click on Logout Link ********
