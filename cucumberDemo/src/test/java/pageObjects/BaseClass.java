@@ -1,5 +1,5 @@
 package pageObjects;
-
+//This is the Base class
 import java.util.Properties;
 
 import org.apache.commons.lang.RandomStringUtils;
